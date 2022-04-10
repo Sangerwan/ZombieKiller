@@ -15,7 +15,7 @@
 		},
 		{
 			"Name": "GameplayHelper",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0d8f0ca5fdee4d7fae6f913a3d1e740b"
 		}
 	]
